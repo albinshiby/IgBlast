@@ -1,4 +1,4 @@
-
+#IgBlast Version 1.0
 
 ![Logo](https://i.ibb.co/RpR09zc/1643226607054.png)
 
@@ -7,10 +7,6 @@
 
 
 
-
-![MIT License](https://img.shields.io/github/license/cyberkallan/IG-blaster)
-![GPLv3 License](https://img.shields.io/github/languages/count/cyberkallan/IG-blaster)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 ## Documentation
@@ -30,7 +26,7 @@ IF you want to shutdown somone instagram account remotely. This tool will help y
 
 
 
-![App Screenshot](https://i.ibb.co/j3ML0yP/IMG-20220127-015545.jpg)
+
 
 
 ## Installation
