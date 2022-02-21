@@ -1,4 +1,4 @@
-#IgBlast Version 1.0
+# IgBlast Version 1.0
 
 ![Logo](https://i.ibb.co/RpR09zc/1643226607054.png)
 
