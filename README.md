@@ -15,7 +15,7 @@
 
 ## Documentation
 
-[Education purpose only](https://Hackaro.com)
+[Education purpose only]
 
 IF you want to shutdown somone instagram account remotely. This tool will help you.
 
@@ -48,8 +48,3 @@ python3 -m pip install requests
 > Run : python3 igblast.py
 ```
     
-## Acknowledgements
-
- - [Join the community](https://hackaro.com)
- - [more tools](https://denotech.in)
- - [github](https://GitHub.com/cyberkallan)
